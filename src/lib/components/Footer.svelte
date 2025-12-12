@@ -5,22 +5,22 @@
   <div class="max-w-[1200px] mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-24">
     <div>
       <h2 class="text-[40px] font-light text-gray-900 leading-tight mb-6">
-        Available in California.<br>
-        Starting at $152k<br>
-        plus installation. ⓘ
+        Serving Essex.<br>
+        Free consultation<br>
+        and CAD design.
       </h2>
-      <a href="#" class="text-blue-600 text-2xl font-light hover:text-blue-700 transition-colors flex items-center gap-2 mb-4">
-        Design yours ->
+      <a href="#contact" class="text-primary-600 text-2xl font-light hover:text-primary-700 transition-colors flex items-center gap-2 mb-4">
+        Book yours ->
       </a>
-      <a href="#" class="text-gray-400 text-xs hover:text-gray-600 transition-colors">
-        Not in California? Tell us where to build next >
+      <a href="#areas" class="text-gray-400 text-xs hover:text-gray-600 transition-colors">
+        Chelmsford, Colchester, Southend-on-Sea & across Essex >
       </a>
     </div>
     
     <div class="h-[300px] bg-white rounded-xl shadow-sm overflow-hidden border border-gray-100 flex items-center justify-center relative">
-        <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop" class="h-[80%] object-contain" alt="House Model" />
+        <img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=2070&auto=format&fit=crop" class="h-[80%] object-contain" alt="Fitted Wardrobe" />
         <div class="absolute bottom-4 right-4 bg-white border border-gray-200 rounded px-2 py-1 text-[10px] font-bold uppercase tracking-wider">
-            Backyard Studio
+            Fitted Wardrobes
         </div>
     </div>
   </div>
@@ -28,30 +28,30 @@
   <!-- Footer Grid -->
   <div class="max-w-[1400px] mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-24">
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
-      <img src="https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=2069&auto=format&fit=crop" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Showroom" />
-      <div class="absolute inset-0 bg-black/20 p-6 flex items-start">
-        <p class="text-white text-lg font-light">See it for real.<br>Find a showroom -></p>
+      <img src="https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?q=80&w=2070&auto=format&fit=crop" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Workshop" />
+      <div class="absolute inset-0 bg-black/30 p-6 flex items-start">
+        <p class="text-white text-lg font-light">Visit our workshop.<br>Essex countryside -></p>
       </div>
     </div>
 
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
-      <img src="https://images.unsplash.com/photo-1449844908441-8829872d2607?q=80&w=2070&auto=format&fit=crop" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Multiunit" />
-      <div class="absolute inset-0 bg-black/20 p-6 flex items-start">
-        <p class="text-white text-lg font-light">Backyard Multiunit.<br>For developers -></p>
+      <img src="https://images.unsplash.com/photo-1556912173-46c336c7fd55?q=80&w=2070&auto=format&fit=crop" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Kitchen" />
+      <div class="absolute inset-0 bg-black/30 p-6 flex items-start">
+        <p class="text-white text-lg font-light">Kitchens too.<br>Explore options -></p>
       </div>
     </div>
 
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
-      <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop" class="w-full h-full object-cover bg-white transition-transform duration-700 group-hover:scale-105" alt="Configure" />
-      <div class="absolute inset-0 bg-black/5 p-6 flex items-start">
-        <p class="text-gray-900 text-lg font-light">Make Backyard yours.<br>Configure in 3D -></p>
+      <img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=2070&auto=format&fit=crop" class="w-full h-full object-cover bg-white transition-transform duration-700 group-hover:scale-105" alt="Portfolio" />
+      <div class="absolute inset-0 bg-black/10 p-6 flex items-start">
+        <p class="text-white text-lg font-light">View our work.<br>Portfolio -></p>
       </div>
     </div>
 
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
-      <img src="https://images.unsplash.com/photo-1470058869958-2a77ade41c02?q=80&w=2070&auto=format&fit=crop" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Fire resistant" />
-      <div class="absolute inset-0 bg-blue-600/80 p-6 flex items-start">
-        <p class="text-white text-lg font-light">Fire-resistant by design.<br>Learn more -></p>
+      <img src="https://images.unsplash.com/photo-1565538810643-b5bdb714032a?q=80&w=2074&auto=format&fit=crop" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Sustainable" />
+      <div class="absolute inset-0 bg-primary-600/80 p-6 flex items-start">
+        <p class="text-white text-lg font-light">Sustainably sourced.<br>Learn more -></p>
       </div>
     </div>
   </div>
@@ -60,25 +60,25 @@
 <footer class="bg-[#f9f9f7] pt-12 pb-12 px-6">
   <div class="max-w-[1200px] mx-auto grid grid-cols-1 md:grid-cols-4 gap-12">
     <div>
-      <h3 class="font-medium text-gray-900 mb-4">Samara</h3>
+      <h3 class="font-medium text-gray-900 mb-4">Ward-Smith Interiors</h3>
       <ul class="space-y-2 text-sm text-gray-500">
-        <li><a href="#" class="hover:text-gray-900">News</a></li>
-        <li><a href="#" class="hover:text-gray-900">Insights</a></li>
-        <li><a href="#" class="hover:text-gray-900">Jobs</a></li>
-        <li><a href="#" class="hover:text-gray-900">Showrooms</a></li>
-        <li><a href="#" class="hover:text-gray-900">For Developers</a></li>
+        <li><a href="#about" class="hover:text-gray-900">About us</a></li>
+        <li><a href="#team" class="hover:text-gray-900">Meet the team</a></li>
+        <li><a href="#workshop" class="hover:text-gray-900">Our workshop</a></li>
+        <li><a href="#testimonials" class="hover:text-gray-900">Testimonials</a></li>
+        <li><a href="#contact" class="hover:text-gray-900">Contact</a></li>
       </ul>
     </div>
 
     <div>
-      <h3 class="font-medium text-gray-900 mb-4">Backyard</h3>
+      <h3 class="font-medium text-gray-900 mb-4">Services</h3>
       <ul class="space-y-2 text-sm text-gray-500">
-        <li><a href="#" class="hover:text-gray-900">Models</a></li>
-        <li><a href="#" class="hover:text-gray-900">Design yours</a></li>
-        <li><a href="#" class="hover:text-gray-900">How it works</a></li>
-        <li><a href="#" class="hover:text-gray-900">Financing</a></li>
-        <li><a href="#" class="hover:text-gray-900">FAQ</a></li>
-        <li><a href="#" class="hover:text-gray-900">Local guides</a></li>
+        <li><a href="#wardrobes" class="hover:text-gray-900">Fitted wardrobes</a></li>
+        <li><a href="#kitchens" class="hover:text-gray-900">Kitchens</a></li>
+        <li><a href="#doors" class="hover:text-gray-900">Internal doors</a></li>
+        <li><a href="#carpentry" class="hover:text-gray-900">General carpentry</a></li>
+        <li><a href="#cad" class="hover:text-gray-900">CAD design</a></li>
+        <li><a href="#guarantee" class="hover:text-gray-900">5-year guarantee</a></li>
       </ul>
     </div>
 
@@ -86,16 +86,16 @@
       <h3 class="font-medium text-gray-900 mb-4">Social</h3>
       <ul class="space-y-2 text-sm text-gray-500">
         <li><a href="#" class="hover:text-gray-900">Instagram</a></li>
-        <li><a href="#" class="hover:text-gray-900">YouTube</a></li>
+        <li><a href="#" class="hover:text-gray-900">Facebook</a></li>
         <li><a href="#" class="hover:text-gray-900">LinkedIn</a></li>
       </ul>
     </div>
 
     <div>
-      <h3 class="font-medium text-gray-900 mb-4">Mailing list</h3>
-      <p class="text-xs text-gray-500 mb-4">Get the latest news, announcements, and more.</p>
-      <button class="w-full bg-[#007aff] hover:bg-[#0062cc] text-white py-2 rounded text-sm font-medium transition-colors mb-4">
-        Subscribe
+      <h3 class="font-medium text-gray-900 mb-4">Get in touch</h3>
+      <p class="text-xs text-gray-500 mb-4">Book your free consultation and CAD visualization.</p>
+      <button class="w-full bg-primary-600 hover:bg-primary-700 text-white py-2 rounded text-sm font-medium transition-colors mb-4">
+        Book consultation
       </button>
       
       <div class="mt-8">
@@ -109,10 +109,10 @@
   </div>
 
   <div class="max-w-[1200px] mx-auto mt-24 pt-8 border-t border-gray-200 flex flex-col md:flex-row justify-between items-center text-[10px] text-gray-400">
-    <p>© 2024 Samara Living Inc.</p>
+    <p>© 2024 Ward-Smith Interiors. All rights reserved.</p>
     <div class="flex gap-4 mt-4 md:mt-0">
-      <a href="#" class="hover:text-gray-600">Privacy policy</a>
-      <a href="#" class="hover:text-gray-600">Terms of service</a>
+      <a href="#privacy" class="hover:text-gray-600">Privacy policy</a>
+      <a href="#terms" class="hover:text-gray-600">Terms & Conditions</a>
     </div>
   </div>
 </footer>

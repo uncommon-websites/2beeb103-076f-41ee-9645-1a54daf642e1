@@ -4,11 +4,11 @@
 <section class="bg-[#f0efeb] py-24 px-6">
   <div class="max-w-[1200px] mx-auto">
     <div class="mb-24">
-      <h2 class="text-[40px] font-light text-white absolute z-10 p-12 max-w-[400px]">Your main home might get jealous</h2>
+      <h2 class="text-[40px] font-light text-white absolute z-10 p-12 max-w-[400px]">Quality you can see. Craftsmanship you can trust.</h2>
       <div class="h-[600px] rounded-2xl overflow-hidden relative">
         <img 
-          src="https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?q=80&w=2070&auto=format&fit=crop" 
-          alt="Main home jealous" 
+          src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=2070&auto=format&fit=crop" 
+          alt="Quality wardrobe" 
           class="w-full h-full object-cover"
         />
       </div>
@@ -19,14 +19,14 @@
       <div>
         <div class="h-[400px] rounded-2xl overflow-hidden mb-6">
           <img 
-            src="https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?q=80&w=2070&auto=format&fit=crop" 
-            alt="Living room" 
+            src="https://images.unsplash.com/photo-1504148455328-c376907d081c?q=80&w=2070&auto=format&fit=crop" 
+            alt="Craftsmanship" 
             class="w-full h-full object-cover"
           />
         </div>
-        <h3 class="text-xl font-normal mb-2">Designed to live big.</h3>
+        <h3 class="text-xl font-normal mb-2">British craftsmanship, refined.</h3>
         <p class="text-gray-500 text-sm leading-relaxed">
-          Despite its small footprint, Backyard feels like a full-sized home, thanks to airy cathedral ceilings, well-proportioned layouts, and never built-in storage.
+          With 30+ years of carpentry experience, our team brings meticulous attention to detail to every project. From Ministry of Defence engineering precision to traditional woodworking passed down through generations.
         </p>
       </div>
 
@@ -34,14 +34,14 @@
       <div>
         <div class="h-[400px] rounded-2xl overflow-hidden mb-6">
           <img 
-            src="https://images.unsplash.com/photo-1556911220-bff31c812dba?q=80&w=2068&auto=format&fit=crop" 
-            alt="Kitchen" 
+            src="https://images.unsplash.com/photo-1565538810643-b5bdb714032a?q=80&w=2074&auto=format&fit=crop" 
+            alt="Quality materials" 
             class="w-full h-full object-cover"
           />
         </div>
-        <h3 class="text-xl font-normal mb-2">Kitchens worth cooking in.</h3>
+        <h3 class="text-xl font-normal mb-2">Premium materials, guaranteed.</h3>
         <p class="text-gray-500 text-sm leading-relaxed">
-          Premium, fully electric, and impeccably beautiful. The induction cooktop boils water in seconds. An integrated dishwasher cleans up in silence.
+          We use only the best quality hardware, wooden panels, and materials. Every installation comes with a 5-year guarantee, backed by our commitment to excellence and sustainable sourcing.
         </p>
       </div>
     </div>
